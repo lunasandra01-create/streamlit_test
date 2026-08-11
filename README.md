@@ -42,3 +42,6 @@ Este proyecto ha sido construido utilizando el poder y la flexibilidad de las he
 ---
 
 💡 **¡Explora, descubre y comparte el poder de los datos!** Si este proyecto te resulta útil o te inspira, no dudes en darle una ⭐ en GitHub. ¡Las contribuciones y sugerencias son siempre bienvenidas!
+
+---
+*Puedes interactuar con el proyecto desplegado en:*(https://streamlit-test-ddlt.onrender.com) 
