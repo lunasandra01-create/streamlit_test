@@ -1,4 +1,4 @@
 pandas
-spicy
+scipy
 streamlit
 plotly
