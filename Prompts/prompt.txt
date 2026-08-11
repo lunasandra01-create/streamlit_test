@@ -1,0 +1,8 @@
+Genera un conjunto de datos sintético en formato CSV.
+La temática del conjunto de datos debe ser sobre una aplicacion de recetas saludables en 5 minutos.
+el conjunto de datos  debe cumplir con las siguientes directrices:
+1. Generar exactamente 40 filas de datos aleatorios pero realistas.
+2. Contener obligatoriamente las siguientes columnas categoricas, numericas, de fecha y boolenas
+3. Genera los datos separados por comas 
+4. Revisa que los datos sean consistentes y armoniosos
+5. Los datos deben representar caracteristicas interesantes y no solo aleatoridad.
